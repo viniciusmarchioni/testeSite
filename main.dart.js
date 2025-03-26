@@ -83906,7 +83906,7 @@ Wd(a){var s=0,r=A.P(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e,d
 var $async$iB=A.K(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:q=3
 s=6
-return A.J(A.px(A.dg("http://3.147.49.231:5000/teste/"+a),null).l5(0,B.c8),$async$iB)
+return A.J(A.px(A.dg("https://corinthianspaulista1910.duckdns.org/teste/"+a),null).l5(0,B.c8),$async$iB)
 case 6:n=c
 s=n.b===200?7:8
 break
@@ -83928,7 +83928,7 @@ if(k!=null)o.as.push(k)}o.Q=A.a([],t.Ms)
 for(l=J.ah(J.bv(m,"destaques"));l.t();){j=l.gE()
 f=j
 o.Q.push(new A.vX(f.h(0,"logo_mandante"),f.h(0,"logo_visitante"),f.h(0,"nota")))}s=9
-return A.J(A.px(A.dg("http://3.147.49.231:5000/teste/pos/"+A.f(o.e)),null).l5(0,B.c8),$async$iB)
+return A.J(A.px(A.dg("https://corinthianspaulista1910.duckdns.org/teste/pos/"+A.f(o.e)),null).l5(0,B.c8),$async$iB)
 case 9:i=c
 if(i.b===200){l=i
 h=B.aX.kD(A.pw(A.pr(l.e).c.a.h(0,"charset")).dt(l.w),null)
@@ -83951,7 +83951,7 @@ aiH(a,b){var s=0,r=A.P(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g
 var $async$yU=A.K(function(c,d){if(c===1){p=d
 s=q}while(true)switch(s){case 0:q=3
 s=6
-return A.J(A.px(A.dg("http://3.147.49.231:5000/teste/form/"+a+"/"+b),null).l5(0,B.c8),$async$yU)
+return A.J(A.px(A.dg("https://corinthianspaulista1910.duckdns.org/teste/form/"+a+"/"+b),null).l5(0,B.c8),$async$yU)
 case 6:n=d
 if(n.b===200){j=n
 m=B.aX.kD(A.pw(A.pr(j.e).c.a.h(0,"charset")).dt(j.w),null)
@@ -83985,7 +83985,7 @@ amF(a){var s=0,r=A.P(t.H),q=1,p,o=this,n,m,l,k,j,i,h
 var $async$kZ=A.K(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:q=3
 s=6
-return A.J(A.px(A.dg("http://3.147.49.231:5000/pesquisaavancada/"),a),$async$kZ)
+return A.J(A.px(A.dg("https://corinthianspaulista1910.duckdns.org/pesquisaavancada/"),a),$async$kZ)
 case 6:n=c
 if(n.b===200){j=n
 m=B.aX.kD(A.pw(A.pr(j.e).c.a.h(0,"charset")).dt(j.w),null)
@@ -84018,7 +84018,7 @@ o.a=A.a([],h)
 o.b=A.a([],t.uP)
 q=3
 s=6
-return A.J(A.px(A.dg("http://3.147.49.231:5000/"+a),null).l5(0,B.c8),$async$kZ)
+return A.J(A.px(A.dg("https://corinthianspaulista1910.duckdns.org/"+a),null).l5(0,B.c8),$async$kZ)
 case 6:n=c
 if(n.b===200){o.a=A.a([],h)
 h=n
@@ -84047,7 +84047,7 @@ We(a){var s=0,r=A.P(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e,d,c,b
 var $async$iB=A.K(function(a0,a1){if(a0===1){p=a1
 s=q}while(true)switch(s){case 0:q=3
 s=6
-return A.J(A.px(A.dg("http://3.147.49.231:5000/jogadores/"+a),null).l5(0,B.c8),$async$iB)
+return A.J(A.px(A.dg("https://corinthianspaulista1910.duckdns.org/jogadores/"+a),null).l5(0,B.c8),$async$iB)
 case 6:n=a1
 if(n.b===200){o.a=A.a33(new A.lh(null))
 d=t.xN
@@ -84065,7 +84065,7 @@ o.c.push(A.lB(i))}for(d=J.ah(J.bv(m,"atacantes"));d.t();){h=d.gE()
 o.d.push(A.lB(h))}d=new A.v3()
 d.K3(J.bv(m,"aproveitamento"))
 o.f=d}s=7
-return A.J(A.px(A.dg("http://3.147.49.231:5000/medias/"),null).l5(0,B.c8),$async$iB)
+return A.J(A.px(A.dg("https://corinthianspaulista1910.duckdns.org/medias/"),null).l5(0,B.c8),$async$iB)
 case 7:g=a1
 if(g.b===200){d=g
 f=B.aX.kD(A.pw(A.pr(d.e).c.a.h(0,"charset")).dt(d.w),null)
@@ -84091,7 +84091,7 @@ ao_(a,b){var s=0,r=A.P(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e
 var $async$Al=A.K(function(c,d){if(c===1){p=d
 s=q}while(true)switch(s){case 0:q=3
 s=6
-return A.J(A.px(A.dg("http://3.147.49.231:5000/times/teste/"+a+"/"+b),null).l5(0,B.c8),$async$Al)
+return A.J(A.px(A.dg("https://corinthianspaulista1910.duckdns.org/times/teste/"+a+"/"+b),null).l5(0,B.c8),$async$Al)
 case 6:n=d
 if(n.b===200){o.a=A.a33(new A.lh(null))
 g=t.xN
