@@ -88220,7 +88220,7 @@ case 1:return A.J(p,r)}})
 return A.L($async$eF,r)}}
 A.yP.prototype={
 ac(){var s=t.s,r=t.N
-return new A.RX(new A.a6b(),A.a(["Selecione","Corinthians","Palmeiras","S\xe3o Paulo","Santos"],s),A.ac(["Atletico-MG",u.o,"Bahia",u.d,"Botafogo",u.W,"Ceara",u.A,"Corinthians",u.R,"Cruzeiro",u.J,"Flamengo",u.M,"Fluminense",u.y,"Fortaleza EC",u.X,"Gremio",u.i,"Internacional",u.H,"Juventude",u.Z,"Mirassol",u.r,"Palmeiras",u.h,"RB Bragantino",u._,"Santos",u.B,"Sao Paulo",u.x,"Sport Recife",u.l,"Vasco DA Gama",u.P,"Vitoria",u.Y],r,r),A.a(["Selecione","4-4-2","4-3-3","4-2-3-1","3-4-1-2","4-3-1-2","4-1-3-2","3-4-2-1","3-5-2","4-4-1-1","5-4-1","3-4-3","4-3-2-1","4-1-4-1","5-3-2","4-2-2-2","4-5-1","3-3-3-1","3-3-1-3","3-2-4-1","3-1-4-2"],s),A.a(["Hor\xe1rio","Dia","Noite"],s),A.a(["Clima","Ceu limpo","Chuva","Nublado"],s),B.n)}}
+return new A.RX(new A.a6b(),A.a(["Selecione","Corinthians","Palmeiras","S\xe3o Paulo","Santos"],s),A.ac(["Atletico-MG",u.o,"Bahia",u.d,"Botafogo",u.W,"Ceara",u.A,"Corinthians",u.R,"Cruzeiro",u.J,"Flamengo",u.M,"Fluminense",u.y,"Fortaleza EC",u.X,"Gremio",u.i,"Internacional",u.H,"Juventude",u.Z,"Mirassol",u.r,"Palmeiras",u.h,"RB Bragantino",u._,"Santos",u.B,"Sao Paulo",u.x,"Sport Recife",u.l,"Vasco DA Gama",u.P,"Vitoria",u.Y],r,r),A.a(["Forma\xe7\xe3o","4-4-2","4-3-3","4-2-3-1","3-4-1-2","4-3-1-2","4-1-3-2","3-4-2-1","3-5-2","4-4-1-1","5-4-1","3-4-3","4-3-2-1","4-1-4-1","5-3-2","4-2-2-2","4-5-1","3-3-3-1","3-3-1-3","3-2-4-1","3-1-4-2"],s),A.a(["Hor\xe1rio","Dia","Noite"],s),A.a(["Clima","Ceu limpo","Chuva","Nublado"],s),B.n)}}
 A.RX.prototype={
 lz(){var s=0,r=A.M(t.H),q,p=this,o
 var $async$lz=A.I(function(a,b){if(a===1)return A.J(b,r)
