@@ -85206,7 +85206,7 @@ s.toString
 return A.ep(r,B.ly,r,A.V(25,s))}s=this.c
 s.toString
 return A.ep(r,new A.jB(a,1,r),r,A.V(25,s))},
-Bp(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c=null,b=t.S,a=t.N,a0=A.ad(["defensores",A.ad([0,"Desarmes",1,"Bloqueios",2,"Duelos Ganhos"],b,a),"meias",A.ad([0,"Passes certos",1,"Assistencias",2,"Chances criadas"],b,a),"atacantes",A.ad([0,"Gols",1,"Chutes no gol",2,"Assistencias"],b,a)],a,t.Iz)
+Bp(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c=null,b=t.S,a=t.N,a0=A.ad(["defensores",A.ad([0,"Desarmes",1,"Bloqueios",2,"Duelos Ganhos"],b,a),"meias",A.ad([0,"Passes certos",1,"Chances criadas",2,"Assistencias"],b,a),"atacantes",A.ad([0,"Gols",1,"Chutes no gol",2,"Assistencias"],b,a)],a,t.Iz)
 b=t.K
 s=A.ad(["defensores",A.ad(["jogadores",d.d.b,"mediaIndex",0],a,b),"meias",A.ad(["jogadores",d.d.c,"mediaIndex",1],a,b),"atacantes",A.ad(["jogadores",d.d.d,"mediaIndex",2],a,b)],a,t.nf)
 r=A.a([],t.p)
