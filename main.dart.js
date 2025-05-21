@@ -85548,7 +85548,7 @@ return A.ep(r,new A.jB(a,1,r),r,A.a1(15,s))},
 nS(a){if(a>=60)return B.m
 else if(a>50)return B.h8
 else return B.b8},
-Bp(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=this,a=null,a0=t.S,a1=t.N,a2=A.ad(["defensores",A.ad([0,"Duelos ganhos",1,"Desarmes",2,"Bloqueios"],a0,a1),"meias",A.ad([0,"Passes certos",1,"Assistencias",2,"Chances criadas"],a0,a1),"atacantes",A.ad([0,"Gols",1,"Assistencias",2,"Chutes no gol"],a0,a1)],a1,t.Iz)
+Bp(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=this,a=null,a0=t.S,a1=t.N,a2=A.ad(["defensores",A.ad([0,"Desarmes",1,"Bloqueios",2,"Duelos Ganhos"],a0,a1),"meias",A.ad([0,"Passes certos",1,"Chances criadas",2,"Assistencias"],a0,a1),"atacantes",A.ad([0,"Gols",1,"Chutes no gol",2,"Assistencias"],a0,a1)],a1,t.Iz)
 a0=t.K
 s=A.ad(["defensores",A.ad(["jogadores",b.d.b,"mediaIndex",0],a1,a0),"meias",A.ad(["jogadores",b.d.c,"mediaIndex",1],a1,a0),"atacantes",A.ad(["jogadores",b.d.d,"mediaIndex",2],a1,a0)],a1,t.nf)
 r=A.a([],t.p)
